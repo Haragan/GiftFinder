@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haragan\.android\build-cache\bfa6b46c44b5ae6437dfbd789be31a43e0b81abc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5921a1fc557ca4cbf05f3f210af9f4dea5aabe6">
+        <dex dex="C:\Users\Haragan\Desktop\GiftSearcherClient\app\build\intermediates\pre-dexed\debug\classes_4217247e9688293550195bb2ea9ce060c2af1609.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haragan\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.2.39\24a08b8de679614110d1a5a7e6524eb8f9c64f2\fastjson-1.2.39.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="024a08b8de679614110d1a5a7e6524eb8f9c64f2">
+        <dex dex="C:\Users\Haragan\Desktop\GiftSearcherClient\app\build\intermediates\pre-dexed\debug\fastjson-1.2.39_f33126c97430df3be42c37d636c1f9e4760dd6d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haragan\.android\build-cache\bfa6b46c44b5ae6437dfbd789be31a43e0b81abc\output\jars\libs\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9d9f6c3bb073a91bf26eaea4699c3ed78a0fdc2b">
+        <dex dex="C:\Users\Haragan\Desktop\GiftSearcherClient\app\build\intermediates\pre-dexed\debug\classes_2ad54078c9f2931f55ca4974e485ee84397d45a1.jar" />
+    </item>
+
+</items>
