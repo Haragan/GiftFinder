@@ -1,0 +1,11 @@
+INSERT INTO  shop (id, shop_name) VALUES (NULL, 'PichShop');
+INSERT INTO  shop (id, shop_name) VALUES (NULL, 'Красный куб');
+INSERT INTO  shop (id, shop_name) VALUES (NULL, 'Другие подарки');
+INSERT INTO  shop (id, shop_name) VALUES (NULL, 'Разверни');
+INSERT INTO  shop (id, shop_name) VALUES (NULL, 'ДАРЮ!');
+INSERT INTO  shop (id, shop_name) VALUES (NULL, 'LeFUTUR');
+INSERT INTO  shop (id, shop_name) VALUES (NULL, 'PresentDream');
+INSERT INTO  shop (id, shop_name) VALUES (NULL, 'Пум-пу-ру');
+INSERT INTO  shop (id, shop_name) VALUES (NULL, 'Podarkoff');
+INSERT INTO  shop (id, shop_name) VALUES (NULL, 'Подарки ТУТ');
+INSERT INTO  shop (id, shop_name) VALUES (NULL, 'Мосигра');
